@@ -56,3 +56,8 @@ function keyPressed() {
         s.direction(-1, 0)
     }
 }
+
+
+function mousePressed() {
+    s.total++;
+}
